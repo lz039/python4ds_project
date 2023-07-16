@@ -1,0 +1,501 @@
+id,name,street,houseNumber,postalCode,city,state,country,stationCategory,owner,countryCode,latitude,longitude,timeZone
+1,Aachen Hbf,Bahnhofstr.,2a,52064,Aachen,Nordrhein-Westfalen,DE,CATEGORY_2,DB S&S,DE,50.7678,6.091499,Europe/Berlin
+1000,Burkhardswalde-Maxen,Gesundbrunnen,60c,01809,Müglitztal-Burkhardswalde,Sachsen,DE,CATEGORY_7,DB S&S,DE,50.9251456,13.8383692,Europe/Berlin
+1001,Burkhardtsdorf,Bahnhofstraße,,09235,Burkhardtsdorf,Sachsen,DE,CATEGORY_6,DB Regio-Netze,DE,,,Europe/Berlin
+1002,Bürstadt,Bahnhofsallee,17,68642,Bürstadt,Hessen,DE,CATEGORY_6,DB S&S,DE,49.645769,8.458188,Europe/Berlin
+1005,Buschow,Bahnhofstr.,28,14715,Märkisch Luch OT Buschow,Brandenburg,DE,CATEGORY_6,DB S&S,DE,52.592203,12.628996,Europe/Berlin
+1006,Büsenbachtal,Am Büsenbach,16l,21256,Handeloh-Wörme,Niedersachsen,DE,CATEGORY_7,DB S&S,DE,53.269595,9.858592,Europe/Berlin
+1008,Büsum,Heider Str.,20,25761,Büsum,Schleswig-Holstein,DE,CATEGORY_6,DB S&S,DE,54.133822,8.867113,Europe/Berlin
+1009,Buttenheim,Am Bahnhof,2,96146,Altendorf,Bayern,DE,CATEGORY_6,DB S&S,DE,49.7993973,11.0137296,Europe/Berlin
+1011,Büttgen,Driescher Birkhofstraße,1,41564,Kaarst,Nordrhein-Westfalen,DE,CATEGORY_6,DB S&S,DE,51.197208,6.605785,Europe/Berlin
+1012,Buttstädt,Am Bahnhof,7,99628,Buttstädt,Thüringen,DE,CATEGORY_7,DB S&S,DE,51.126995,11.418412,Europe/Berlin
+1013,Butzbach,Bahnhofstr.,8,35510,Butzbach,Hessen,DE,CATEGORY_4,DB S&S,DE,50.431156,8.669517,Europe/Berlin
+1014,Bützow,Bahnhofstr.,40,18246,Bützow,Mecklenburg-Vorpommern,DE,CATEGORY_4,DB S&S,DE,53.837114,11.998194,Europe/Berlin
+1015,Buxtehude,Am Bundesbahnhof,1,21614,Buxtehude,Niedersachsen,DE,CATEGORY_3,DB S&S,DE,53.470491,9.688314,Europe/Berlin
+1016,Cadenberge,Bahnhofstr.,41,21781,Cadenberge,Niedersachsen,DE,CATEGORY_6,DB S&S,DE,53.768071,9.058163,Europe/Berlin
+1017,Cadolzburg,Bahnhofsplatz,1,90556,Cadolzburg,Bayern,DE,CATEGORY_6,DB S&S,DE,49.460649,10.863611,Europe/Berlin
+1018,Cainsdorf,Am Hammerwald,,08064,Zwickau,Sachsen,DE,CATEGORY_6,DB Regio-Netze,DE,,,Europe/Berlin
+1019,Calau (Niederlausitz),Bahnhofstr.,6,03205,Calau ,Brandenburg,DE,CATEGORY_4,DB S&S,DE,51.738118,13.97982,Europe/Berlin
+102,Altenhasungen,Hardtstraße,,34466,Wolfhagen,Hessen,DE,CATEGORY_6,DB Regio-Netze,DE,,,Europe/Berlin
+1020,Calbe (Saale) Ost,Am Klärwerk,,39240,Calbe (Saale),Sachsen-Anhalt,DE,CATEGORY_5,DB S&S,DE,51.920693,11.810527,Europe/Berlin
+1021,Calbe (Saale) West,Bahnhofstr.,1,39240,Calbe (Saale),Sachsen-Anhalt,DE,CATEGORY_7,DB S&S,DE,51.905693,11.758783,Europe/Berlin
+1022,Calberlah,Bahnhofstr.,33,38547,Calberlah,Niedersachsen,DE,CATEGORY_6,DB S&S,DE,52.427559,10.624914,Europe/Berlin
+1023,Caldern,Zum Wollenberg,,35094,Lahntal,Hessen,DE,CATEGORY_6,DB Regio-Netze,DE,,,Europe/Berlin
+1025,Calw,Bischofstr.,10,75365,Calw,Baden-Württemberg,DE,CATEGORY_6,DB S&S,DE,48.714682,8.741854,Europe/Berlin
+1026,Camburg (Saale),Bahnhofstr.,12,07774,Camburg (Saale),Thüringen,DE,CATEGORY_6,DB S&S,DE,51.050857,11.70468,Europe/Berlin
+1027,Cammin (Meckl),Am Bahnhof,,17094,Cammin (Meckl),Mecklenburg-Vorpommern,DE,CATEGORY_6,DB S&S,DE,53.439035,13.299645,Europe/Berlin
+1028,Capelle (Westf),Am Bahnhof,7,59394,Nordkirchen-Capelle,Nordrhein-Westfalen,DE,CATEGORY_6,DB S&S,DE,51.735268,7.61108,Europe/Berlin
+1029,Caputh-Geltow,Am Bahnhof,,14548,Schwielowsee OT Caputh,Brandenburg,DE,CATEGORY_6,DB S&S,DE,52.350295,12.984406,Europe/Berlin
+1032,Casekow,Bahnhofstraße,10,16306,Casekow,Brandenburg,DE,CATEGORY_6,DB S&S,DE,53.213614,14.208187,Europe/Berlin
+1033,Castrop-Rauxel Hbf,Berliner Platz,9,44579,Castrop-Rauxel,Nordrhein-Westfalen,DE,CATEGORY_3,DB S&S,DE,51.573526,7.30398,Europe/Berlin
+1034,Castrop-Rauxel Süd,Münsterplatz,8,44575,Castrop-Rauxel,Nordrhein-Westfalen,DE,CATEGORY_6,DB S&S,DE,51.5503,7.310186,Europe/Berlin
+1035,Castrop-Rauxel-Merklinde,Hellweg,228,44579,Castrop-Rauxel,Nordrhein-Westfalen,DE,CATEGORY_6,DB S&S,DE,51.527932,7.324314,Europe/Berlin
+1036,Celle Pbf,Bahnhofsplatz,6,29221,Celle,Niedersachsen,DE,CATEGORY_3,DB S&S,DE,52.6204548,10.062468,Europe/Berlin
+1037,Cham (Oberpf),Bahnhofstr.,11,93413,Cham ,Bayern,DE,CATEGORY_4,DB S&S,DE,49.221869,12.656832,Europe/Berlin
+1038,Chamerau,Bahnhofstr.,2,93466,Chamerau,Bayern,DE,CATEGORY_7,DB S&S,DE,49.196718,12.745258,Europe/Berlin
+104,Lennestadt-Altenhundem,Hundemstr.,18b,57368,Lennestadt,Nordrhein-Westfalen,DE,CATEGORY_4,DB S&S,DE,51.104132,8.071517,Europe/Berlin
+1040,Chemnitz Hbf,Bahnhofstr.,1,09111,Chemnitz ,Sachsen,DE,CATEGORY_2,DB S&S,DE,50.839696,12.930877,Europe/Berlin
+1041,Chemnitz Kinderwaldstätte,Rennsteig,11,09114,Chemnitz,Sachsen,DE,CATEGORY_6,DB S&S,DE,50.884211,12.953568,Europe/Berlin
+1042,Chemnitz Mitte,Reichstraße,1,09111,Chemnitz ,Sachsen,DE,CATEGORY_6,DB S&S,DE,50.826628,12.912587,Europe/Berlin
+1044,Chemnitz Süd,Reichenhainer Str.,1,09111,Chemnitz ,Sachsen,DE,CATEGORY_5,DB S&S,DE,50.8237663,12.9261875,Europe/Berlin
+1046,Chemnitz-Borna Hp,Sandstr.,72,09113,Chemnitz ,Sachsen,DE,CATEGORY_6,DB S&S,DE,50.859867,12.894459,Europe/Berlin
+1047,Chemnitz-Erfenschlag Mitte,Paul-Franke-Straße,,09125,Chemnitz,Sachsen,DE,CATEGORY_6,DB Regio-Netze,DE,,,Europe/Berlin
+105,Altenkirchen (Westerw),Bahnhofstr.,1,57610,Altenkirchen ,Rheinland-Pfalz,DE,CATEGORY_6,DB S&S,DE,50.684418,7.638257,Europe/Berlin
+1050,Chemnitz-Hilbersdorf Hp,Ebersdorfer Str.,2,09131,Chemnitz ,Sachsen,DE,CATEGORY_6,DB S&S,DE,50.861934,12.953879,Europe/Berlin
+1051,Chemnitz-Reichenhain,Erfenschlager Straße,,09125,Chemnitz,Sachsen,DE,CATEGORY_6,DB Regio-Netze,DE,,,Europe/Berlin
+1052,Chemnitz-Schönau,Zwickauer Str.,1,09117,Chemnitz ,Sachsen,DE,CATEGORY_6,DB S&S,DE,50.818095,12.8765,Europe/Berlin
+1053,Chemnitz-Siegmar,Am Siegmaer Bahnhof,2,09117,Chemnitz ,Sachsen,DE,CATEGORY_6,DB S&S,DE,50.815561,12.84251,Europe/Berlin
+1055,Chorin,Bahnhofstraße,2,16230,Chorin,Brandenburg,DE,CATEGORY_6,DB S&S,DE,52.90354,13.869714,Europe/Berlin
+1056,Clarholz,Am Halloh,1,33442,Clarholz,Nordrhein-Westfalen,DE,CATEGORY_7,DB S&S,DE,51.898454,8.200835,Europe/Berlin
+1057,Clausnitz,Am Haltepunkt,1,09623,Rechenberg-Bienenmühle,Sachsen,DE,CATEGORY_7,DB S&S,DE,50.755842,13.4986,Europe/Berlin
+1058,Cloppenburg,Bahnhofstr.,82,49661,Cloppenburg,Niedersachsen,DE,CATEGORY_6,DB S&S,DE,52.843996,8.055763,Europe/Berlin
+1059,Coburg,Lossaustr.,6,96450,Coburg,Bayern,DE,CATEGORY_3,DB S&S,DE,50.2629273,10.9573281,Europe/Berlin
+106,Altenmarkt (Alz),Margaretenstraße,,83352,Altenmarkt a.d. Alz,Bayern,DE,CATEGORY_6,DB Regio-Netze,DE,,,Europe/Berlin
+1060,Coburg-Neuses,Friedrich-Ludwig-Jahn-Straße,,96450,Coburg-Neuses,Bayern,DE,CATEGORY_7,DB S&S,DE,50.2780001,10.951277,Europe/Berlin
+1061,Cochem (Mosel),Ravenéstr.,67,56812,Cochem ,Rheinland-Pfalz,DE,CATEGORY_4,DB S&S,DE,50.153092,7.166738,Europe/Berlin
+1062,Coesfeld (Westf),Bahnhofstr.,1,48653,Coesfeld,Nordrhein-Westfalen,DE,CATEGORY_4,DB S&S,DE,51.9398071,7.16368675,Europe/Berlin
+1063,Cölbe,Kasseler Str.,88,35091,Cölbe,Hessen,DE,CATEGORY_5,DB S&S,DE,50.848159,8.787365,Europe/Berlin
+1068,Contwig,Bahnhofstr.,36b,66497,Contwig,Rheinland-Pfalz,DE,CATEGORY_7,DB S&S,DE,49.24528,7.427916,Europe/Berlin
+1069,Coppenbrügge,Bahnhofstr.,33,31863,Coppenbrügge,Niedersachsen,DE,CATEGORY_7,DB S&S,DE,52.119521,9.537588,Europe/Berlin
+1070,Leipzig Coppiplatz,Coppiplatz,1,04157,Leipzig,Sachsen,DE,CATEGORY_5,DB S&S,DE,51.367074,12.366024,Europe/Berlin
+1071,Berlin Hauptbahnhof,Europaplatz,1,10557,Berlin,Berlin,DE,CATEGORY_1,DB S&S,DE,52.525592,13.369545,Europe/Berlin
+1072,Coschen,Hauptstr.,21,15898,Neißemünde,Brandenburg,DE,CATEGORY_6,DB S&S,DE,52.019844,14.718167,Europe/Berlin
+1073,Cossebaude,Bahnhofstr.,8,01156,Dresden-Cossebaude,Sachsen,DE,CATEGORY_6,DB S&S,DE,51.0850426,13.6321235,Europe/Berlin
+1075,Coswig (Anh),Bahnhofstr.,10,06869,Coswig (Anhalt),Sachsen-Anhalt,DE,CATEGORY_6,DB S&S,DE,51.888002,12.457625,Europe/Berlin
+1076,Coswig (Bz Dresden),Bahnhofstr.,2,01640,Coswig,Sachsen,DE,CATEGORY_4,DB S&S,DE,51.12281,13.579414,Europe/Berlin
+1077,Cottbus Hbf,Vetschauer Str.,70,03048,Cottbus,Brandenburg,DE,CATEGORY_2,DB S&S,DE,51.750957,14.324162,Europe/Berlin
+1079,Crailsheim,Bahnhof,1,74564,Crailsheim,Baden-Württemberg,DE,CATEGORY_3,DB S&S,DE,49.137872,10.064326,Europe/Berlin
+108,Altenseelbach,Am Flur,2,57290,Neunkirchen,Nordrhein-Westfalen,DE,CATEGORY_7,DB S&S,DE,50.783837,7.992398,Europe/Berlin
+1080,Cranzahl,Bahnhofstr.,4,09465,Sehmatal,Sachsen,DE,CATEGORY_6,DB S&S,DE,50.511248,12.993028,Europe/Berlin
+1082,Creidlitz,Creidlitzer Str.,134,96450,Creidlitz,Bayern,DE,CATEGORY_6,DB S&S,DE,50.227174,10.982246,Europe/Berlin
+1083,Creußen (Oberfr),Bahnhofstraße,,95473,Creußen (Oberfr),Bayern,DE,CATEGORY_5,DB S&S,DE,49.84947,11.628443,Europe/Berlin
+1084,Crimmitschau,Bahnhofstr.,13,08451,Crimmitschau,Sachsen,DE,CATEGORY_6,DB S&S,DE,50.815068,12.392986,Europe/Berlin
+1086,Crivitz,Am Bahnhof,10,19089,Crivitz,Mecklenburg-Vorpommern,DE,CATEGORY_6,DB S&S,DE,53.572518,11.645071,Europe/Berlin
+109,Altenstadt (Hess),Hanauer Straße,25,63674,Altenstadt,Hessen,DE,CATEGORY_6,DB S&S,DE,50.283398,8.943977,Europe/Berlin
+1094,Cursdorf,Bahnhofstraße,6,98744,Cursdorf,Thüringen,DE,CATEGORY_6,DB Regio-Netze,DE,,,Europe/Berlin
+1095,Cuxhaven,Am Bahnhof,1,27472,Cuxhaven,Niedersachsen,DE,CATEGORY_5,DB S&S,DE,53.8609,8.703431,Europe/Berlin
+1096,Konz Mitte,Granastr.,56,54329,Konz,Rheinland-Pfalz,DE,CATEGORY_6,DB S&S,DE,49.70024,6.573757,Europe/Berlin
+1098,Dabendorf,Am Bahnhof,1,15806,Zossen,Brandenburg,DE,CATEGORY_5,DB S&S,DE,52.237332,13.43729,Europe/Berlin
+1099,Dachau Bahnhof,Bahnhofplatz,1,85221,Dachau,Bayern,DE,CATEGORY_3,DB S&S,DE,48.254652,11.44426,Europe/Berlin
+11,Adelebsen,Bahnhofstr.,27,37139,Adelebsen,Niedersachsen,DE,CATEGORY_6,DB S&S,DE,51.57769,9.760044,Europe/Berlin
+110,Altenstadt (Iller),Bahnhofstr.,1,89281,Altenstadt,Bayern,DE,CATEGORY_6,DB S&S,DE,48.161191,10.109983,Europe/Berlin
+1100,Dachau Stadt,Etzenhausenerstr.,,85221,Dachau,Bayern,DE,CATEGORY_6,DB S&S,DE,48.266661,11.439761,Europe/Berlin
+1101,Dachrieden,Bahnhofstr.,10,99974,Unstruttal,Thüringen,DE,CATEGORY_6,DB S&S,DE,51.2695208,10.4423225,Europe/Berlin
+1102,Dachwig,Bahnhofstraße,1,99100,Dachwig,Thüringen,DE,CATEGORY_7,DB S&S,DE,51.072436,10.849686,Europe/Berlin
+1103,Dahl,Am Volmewehr,7,58091,Hagen,Nordrhein-Westfalen,DE,CATEGORY_6,DB S&S,DE,51.303377,7.527898,Europe/Berlin
+1104,Dahlbruch,Karl-Krämer-Straße,1,57271,Hilchenbach,Nordrhein-Westfalen,DE,CATEGORY_7,DB S&S,DE,50.970432,8.053456,Europe/Berlin
+1105,Dahlem (Eifel),Bahnhofstr.,43,53949,Dahlem,Nordrhein-Westfalen,DE,CATEGORY_6,DB S&S,DE,50.385752,6.550382,Europe/Berlin
+1106,Dahlen (Sachs),Ladestr.,6c,04774,Dahlen ,Sachsen,DE,CATEGORY_6,DB S&S,DE,51.350972,12.984253,Europe/Berlin
+1107,Dahlenburg,Bahnhofsweg,3,21368,Dahlenburg,Niedersachsen,DE,CATEGORY_6,DB S&S,DE,53.169266,10.708804,Europe/Berlin
+1108,Dahlerbrück,Volmestraße,55,58579,Schalksmühle,Nordrhein-Westfalen,DE,CATEGORY_7,DB S&S,DE,51.25186,7.517001,Europe/Berlin
+1109,Dahlewitz,Bahnhofstr.,86,15827,Blankenfeld,Brandenburg,DE,CATEGORY_6,DB S&S,DE,52.326618,13.419579,Europe/Berlin
+111,Altentreptow,Bahnhofstraße,17,17087,Altentreptow,Mecklenburg-Vorpommern,DE,CATEGORY_6,DB S&S,DE,53.692233,13.242713,Europe/Berlin
+1114,Dalheim,Bahnhofstr.,12,41844,Wegberg,Nordrhein-Westfalen,DE,CATEGORY_6,DB S&S,DE,51.1491429,6.17859721,Europe/Berlin
+1115,Dallau,Bahnhofstrasse,25,74834,Elztal-Dallau,Baden-Württemberg,DE,CATEGORY_6,DB S&S,DE,49.388078,9.18755,Europe/Berlin
+1116,Dallgow-Döberitz,Bahnhofstr.,,14624,Dallgow (b Berlin),Brandenburg,DE,CATEGORY_5,DB S&S,DE,52.543554,13.059037,Europe/Berlin
+1121,Dannenberg Ost,Am Bahnhof,1,29451,Dannenberg,Niedersachsen,DE,CATEGORY_7,DB S&S,DE,53.104997,11.117734,Europe/Berlin
+1122,Dannenwalde (Gransee),Bahnhofstraße,2,16775,Gransee,Brandenburg,DE,CATEGORY_6,DB S&S,DE,53.079756,13.180801,Europe/Berlin
+1123,Darching,Bahnhofstr.,17,83626,Valley,Bayern,DE,CATEGORY_6,DB S&S,DE,47.8707982,11.7772526,Europe/Berlin
+1125,Darlingerode,Bahnhofstr.,1,38871,Darlingerode,Sachsen-Anhalt,DE,CATEGORY_7,DB S&S,DE,51.84908,10.733037,Europe/Berlin
+1126,Darmstadt Hbf,Am Hauptbahnhof,20,64293,Darmstadt,Hessen,DE,CATEGORY_2,DB S&S,DE,49.872503,8.629636,Europe/Berlin
+1127,Darmstadt Nord,Frankfurter Str.,127,64293,Darmstadt,Hessen,DE,CATEGORY_5,DB S&S,DE,49.892136,8.654311,Europe/Berlin
+1128,Darmstadt Ost,Erbacherstr.,87,64287,Darmstadt,Hessen,DE,CATEGORY_6,DB S&S,DE,49.874743,8.673867,Europe/Berlin
+1129,Darmstadt Süd,Haardtring,275,64299,Darmstadt,Hessen,DE,CATEGORY_5,DB S&S,DE,49.855426,8.636586,Europe/Berlin
+113,Altenwillershagen,Bahnhofstr.,2,18320,Altenwillershagen,Mecklenburg-Vorpommern,DE,CATEGORY_6,DB S&S,DE,54.259406,12.572818,Europe/Berlin
+1130,Darmstadt-Arheilgen,Weiterstädter-Str.,1,64291,Darmstadt,Hessen,DE,CATEGORY_6,DB S&S,DE,49.9134144,8.64555359,Europe/Berlin
+1131,Darmstadt-Eberstadt,An der Eisenbahn,1,64297,Darmstadt,Hessen,DE,CATEGORY_5,DB S&S,DE,49.813922,8.62582,Europe/Berlin
+1132,Darmstadt-Kranichstein,Parkstraße,11,64289,Darmstadt,Hessen,DE,CATEGORY_6,DB S&S,DE,49.906826,8.679359,Europe/Berlin
+1134,Dasing,Bahnhofstr.,8,86453,Dasing,Bayern,DE,CATEGORY_6,DB S&S,DE,48.386243,11.052165,Europe/Berlin
+1135,Dattenfeld (Sieg),Engbachweg,28,51570,Windeck,Nordrhein-Westfalen,DE,CATEGORY_6,DB S&S,DE,50.80916,7.546252,Europe/Berlin
+1136,Dauenhof,Bahnhofstr.,23,25364,Westerhorn,Schleswig-Holstein,DE,CATEGORY_6,DB S&S,DE,53.852459,9.680659,Europe/Berlin
+1138,Daufenbach,Deimlinger Straße,1,54313,Zemmer-Daufenbach,Rheinland-Pfalz,DE,CATEGORY_6,DB S&S,DE,49.875969,6.639911,Europe/Berlin
+114,Altersbach,Am Bahnhof,6,98587,Altersbach,Thüringen,DE,CATEGORY_7,DB S&S,DE,50.70064,10.544522,Europe/Berlin
+1140,Dausenau,Am Bahnhof,2,56132,Dausenau,Rheinland-Pfalz,DE,CATEGORY_6,DB S&S,DE,50.326866,7.758212,Europe/Berlin
+1141,Davensberg,Zum Bahnhof,,59387,Ascheberg-Davensberg,Nordrhein-Westfalen,DE,CATEGORY_6,DB S&S,DE,51.8179438,7.59851575,Europe/Berlin
+1144,Dedenhausen,Zum Bahnhof,40,31311,Uetze,Niedersachsen,DE,CATEGORY_6,DB S&S,DE,52.432215,10.23873,Europe/Berlin
+1145,Dedensen / Gümmer,Gümmerdamm,10,30926,Seelze,Niedersachsen,DE,CATEGORY_4,DB S&S,DE,52.407049,9.521252,Europe/Berlin
+1146,Dedinghausen,Merschweg,,59558,Lippstadt (Dedinghausen),Nordrhein-Westfalen,DE,CATEGORY_6,DB S&S,DE,51.672359,8.398281,Europe/Berlin
+1149,Deggendorf Hbf,Bahnhofstr.,100,94469,Deggendorf,Bayern,DE,CATEGORY_5,DB S&S,DE,48.83944,12.949727,Europe/Berlin
+115,Altglashütten-Falkau,Falkauerstr.,18,79868,Feldberg-Altglashütten,Baden-Württemberg,DE,CATEGORY_7,DB S&S,DE,47.859392,8.114113,Europe/Berlin
+1151,Deidesheim,Bahnhofstr.,1,67146,Deidesheim,Rheinland-Pfalz,DE,CATEGORY_6,DB S&S,DE,49.408349,8.192634,Europe/Berlin
+1152,Deining (Oberpf),Eichenstr.,15,92364,Deining (Oberpf),Bayern,DE,CATEGORY_6,DB S&S,DE,49.203996,11.515572,Europe/Berlin
+1153,Deisenhofen,Bahnhofsplatz,1,82041,Oberhaching,Bayern,DE,CATEGORY_4,DB S&S,DE,48.019539,11.583597,Europe/Berlin
+1155,Delitzsch ob Bf,Poetenweg,1,04509,Delitzsch,Sachsen,DE,CATEGORY_6,DB S&S,DE,51.519703,12.34639,Europe/Berlin
+1156,Delitzsch unt Bf,Eisenbahnstr.,14,04509,Delitzsch,Sachsen,DE,CATEGORY_4,DB S&S,DE,51.525227,12.345218,Europe/Berlin
+1157,Dellfeld,Bahnhofstr.,1,66503,Dellfeld,Rheinland-Pfalz,DE,CATEGORY_6,DB S&S,DE,49.227782,7.469169,Europe/Berlin
+1158,Dellfeld Ort,Hauptstraße,64,66503,Dellfeld,Rheinland-Pfalz,DE,CATEGORY_6,DB S&S,DE,49.238869,7.478162,Europe/Berlin
+1159,Delmenhorst,Wittekindstr.,10,27749,Delmenhorst,Niedersachsen,DE,CATEGORY_3,DB S&S,DE,53.052792,8.629758,Europe/Berlin
+116,Altglienicke,Germanenstr.,137,12524,Berlin,Berlin,DE,CATEGORY_4,DB S&S,DE,52.407299,13.558753,Europe/Berlin
+1160,Demitz-Thumitz,Bahnhofstraße,36,01877,Demitz-Thumitz,Sachsen,DE,CATEGORY_6,DB S&S,DE,51.1421413,14.2396223,Europe/Berlin
+1161,Demker,Am Bahnhof,1,39579,Demker,Sachsen-Anhalt,DE,CATEGORY_6,DB S&S,DE,52.518178,11.854733,Europe/Berlin
+1162,Demmin,Bahnhofstrasse,23,17109,Demmin,Mecklenburg-Vorpommern,DE,CATEGORY_5,DB S&S,DE,53.90114,13.053954,Europe/Berlin
+1164,Densborn,Bahnhofstraße,2,54570,Densborn,Rheinland-Pfalz,DE,CATEGORY_6,DB S&S,DE,50.123918,6.600406,Europe/Berlin
+1165,Denzlingen,Bahnhofstr.,1,79211,Denzlingen,Baden-Württemberg,DE,CATEGORY_4,DB S&S,DE,48.068625,7.881434,Europe/Berlin
+1168,Weilerswist-Derkum,Kaller Str.,11,53919,Weilerswist,Nordrhein-Westfalen,DE,CATEGORY_6,DB S&S,DE,50.704964,6.81683,Europe/Berlin
+117,Althegnenberg,Hochdorfer Straße,4,82278,Althegnenberg,Bayern,DE,CATEGORY_5,DB S&S,DE,48.236374,11.063003,Europe/Berlin
+1170,Dernau,Bundesstraße,4,53507,Dernau,Rheinland-Pfalz,DE,CATEGORY_5,DB S&S,DE,50.529648,7.041527,Europe/Berlin
+1171,Dernbach (Westerw),Hauptstr.,85,56428,Dernbach ,Rheinland-Pfalz,DE,CATEGORY_7,DB S&S,DE,50.457225,7.783693,Europe/Berlin
+1172,Derneburg (Han),Bahnhofstr.,41,31188,Holle OT Derneburg ,Niedersachsen,DE,CATEGORY_6,DB S&S,DE,52.096851,10.143719,Europe/Berlin
+1173,Dessau Hbf,Fritz-Hesse-Str.,47,06844,Dessau-Roßlau,Sachsen-Anhalt,DE,CATEGORY_3,DB S&S,DE,51.839865,12.234945,Europe/Berlin
+1174,Dessau Süd,Peterholzstr.,16,06844,Dessau,Sachsen-Anhalt,DE,CATEGORY_6,DB S&S,DE,51.802196,12.236455,Europe/Berlin
+1176,Dessau-Alten,Hünefeldstr.,5,06844,Dessau,Sachsen-Anhalt,DE,CATEGORY_7,DB S&S,DE,51.825541,12.19334,Europe/Berlin
+1177,Dessau-Mosigkau,Erich-Weinert-Str.,,06847,Dessau,Sachsen-Anhalt,DE,CATEGORY_6,DB S&S,DE,51.814077,12.148546,Europe/Berlin
+1178,Dessauer Brücke,Dessauer Str.,1,06118,Halle,Sachsen-Anhalt,DE,CATEGORY_6,DB S&S,DE,51.500123,11.982535,Europe/Berlin
+1180,Detmold,Bahnhofstr.,8,32756,Detmold,Nordrhein-Westfalen,DE,CATEGORY_5,DB S&S,DE,51.940745,8.872859,Europe/Berlin
+1181,Dettelbach Bahnhof,Am Bahnhof,,97337,Dettelbach,Bayern,DE,CATEGORY_6,DB S&S,DE,49.788146,10.090359,Europe/Berlin
+1182,Dettingen (Main),Bahnhofstraße,11,63791,Karlstein am Main,Bayern,DE,CATEGORY_5,DB S&S,DE,50.042556,9.036807,Europe/Berlin
+1183,Dettingen (Teck),Eisenbahnstr.,1,73265,Dettingen unter Teck,Baden-Württemberg,DE,CATEGORY_7,DB S&S,DE,48.616409,9.454878,Europe/Berlin
+1184,Dettum,Zuckerfabrik,5,38173,Dettum,Niedersachsen,DE,CATEGORY_7,DB S&S,DE,52.156874,10.6601286,Europe/Berlin
+1185,Deuben (b Zeitz),Am Bahnhof,1,06682,Deuben ,Sachsen-Anhalt,DE,CATEGORY_6,DB S&S,DE,51.11053,12.068913,Europe/Berlin
+1186,Deuerling,Am Bahnhof,1,93180,Deuerling,Bayern,DE,CATEGORY_6,DB S&S,DE,49.04164,11.914918,Europe/Berlin
+1187,Deuten,Weseler Straße,326,46286,Dorsten-Deuten,Nordrhein-Westfalen,DE,CATEGORY_6,DB S&S,DE,51.713087,6.97079,Europe/Berlin
+119,Altheim (Hess),Münsterer Straße,19,64839,Münster,Hessen,DE,CATEGORY_6,DB S&S,DE,49.923332,8.890906,Europe/Berlin
+1190,Deutzen,Bahnhofstr.,37,04574,Deutzen,Sachsen,DE,CATEGORY_6,DB S&S,DE,51.11443,12.419542,Europe/Berlin
+1192,Diebach,Häfnerstraße,10,97762,Hammelburg,Bayern,DE,CATEGORY_6,DB S&S,DE,50.128683,9.83766,Europe/Berlin
+1193,Diebsteich,Plöner Stieg,,22769,Hamburg,Hamburg,DE,CATEGORY_5,DB S&S,DE,53.568569,9.93426,Europe/Berlin
+1194,Dieburg,Am Bahnhof,6,64807,Dieburg,Hessen,DE,CATEGORY_4,DB S&S,DE,49.90369,8.839795,Europe/Berlin
+1196,Diedorf (Schwab),Bahnhofstr.,12,86420,Diedorf,Bayern,DE,CATEGORY_5,DB S&S,DE,48.35609,10.776823,Europe/Berlin
+12,Adelschlag,Bahnhofstrasse,45,85111,Adelschlag,Bayern,DE,CATEGORY_6,DB S&S,DE,48.840759,11.211443,Europe/Berlin
+1200,Diepholz,Bahnhofstr.,1,49356,Diepholz,Niedersachsen,DE,CATEGORY_4,DB S&S,DE,52.604771,8.380334,Europe/Berlin
+1202,Dieringhausen,Dieringhauserstr.,2,51645,Gummersbach-Dieringhausen,Nordrhein-Westfalen,DE,CATEGORY_5,DB S&S,DE,50.98542,7.542483,Europe/Berlin
+1204,Dieskau,Bahnhofstr.,10,06184,Kabelsketal,Sachsen-Anhalt,DE,CATEGORY_6,DB S&S,DE,51.4505938,12.0508969,Europe/Berlin
+1205,Dießen,Bahnhofstr.,15,86911,Dießen a. Ammersee,Bayern,DE,CATEGORY_6,DB S&S,DE,47.950818,11.10754,Europe/Berlin
+1206,Dietersheim,Industriestr.,1,91463,Dietersheim,Bayern,DE,CATEGORY_7,DB S&S,DE,49.556882,10.543103,Europe/Berlin
+1209,Dietmannsried,Bahnhofstr.,32,87463,Dietmannsried,Bayern,DE,CATEGORY_6,DB S&S,DE,47.812866,10.290481,Europe/Berlin
+121,Althof,Althöfer Weg,70,18209,Bad Doberan,Mecklenburg-Vorpommern,DE,CATEGORY_7,DB S&S,DE,54.090442,11.922341,Europe/Berlin
+1210,Dietzhausen,Am Bahnhof,5,98530,Dietzhausen,Thüringen,DE,CATEGORY_7,DB S&S,DE,50.599437,10.5969,Europe/Berlin
+1211,Diez,Bahnhofstr.,9,65682,Diez,Rheinland-Pfalz,DE,CATEGORY_5,DB S&S,DE,50.370127,8.01962,Europe/Berlin
+1212,Diez Ost,Schirlinger Str.,107,65582,Diez,Rheinland-Pfalz,DE,CATEGORY_6,DB S&S,DE,50.376044,8.038587,Europe/Berlin
+1213,Dillbrecht,Am Bahnhof,1,35708,Haiger,Hessen,DE,CATEGORY_6,DB S&S,DE,50.801821,8.20377,Europe/Berlin
+1214,Dillenburg,Bahnhofsplatz,5,35683,Dillenburg,Hessen,DE,CATEGORY_4,DB S&S,DE,50.734883,8.294088,Europe/Berlin
+1215,Dillingen (Donau),Bahnhofstr.,2,89407,Dillingen,Bayern,DE,CATEGORY_5,DB S&S,DE,48.581255,10.489167,Europe/Berlin
+1216,Dillingen (Saar),Berkheimstr.,1,66763,Dillingen (Saar),Saarland,DE,CATEGORY_4,DB S&S,DE,49.35271,6.72215,Europe/Berlin
+1217,Hamminkeln-Dingden,Am Bahnhof,5,46499,Hamminkeln,Nordrhein-Westfalen,DE,CATEGORY_6,DB S&S,DE,51.770232,6.607872,Europe/Berlin
+1220,Dingolfing,Bahnhofstr.,76,84130,Dingolfing,Bayern,DE,CATEGORY_5,DB S&S,DE,48.641606,12.48687,Europe/Berlin
+1222,Dinkelscherben,Bahnhofsplatz.,6,86424,Dinkelscherben,Bayern,DE,CATEGORY_5,DB S&S,DE,48.3422254,10.5880022,Europe/Berlin
+1223,Dinslaken,Bahnhofsplatz,1,46535,Dinslaken,Nordrhein-Westfalen,DE,CATEGORY_4,DB S&S,DE,51.567458,6.73803,Europe/Berlin
+1226,Dirmingen,Zur Alten Mühle,15,66571,Eppelborn,Saarland,DE,CATEGORY_6,DB S&S,DE,49.415386,7.012377,Europe/Berlin
+1227,Dissen-Bad Rothenfelde,Am Bahnhof,66,49201,Dissen-Bad Rothenfelde,Niedersachsen,DE,CATEGORY_6,DB S&S,DE,52.11192,8.185298,Europe/Berlin
+1228,Distelhausen,Baumgartenweg,,97941,Tauberbischofsheim,Baden-Württemberg,DE,CATEGORY_6,DB Regio-Netze,DE,,,Europe/Berlin
+1229,Ditfurt,Bahnhofstr.,1,06484,Ditfurt,Sachsen-Anhalt,DE,CATEGORY_6,DB S&S,DE,51.833482,11.186728,Europe/Berlin
+1231,Dittersbach (b Frankenberg/Sachs),Am Bahnhof,1,09669,Frankenberg (Sachsen),Sachsen,DE,CATEGORY_7,DB S&S,DE,50.926837,13.068842,Europe/Berlin
+1232,Dittersdorf,Bahnhofstraße,,09439,Amtsberg,Sachsen,DE,CATEGORY_6,DB Regio-Netze,DE,,,Europe/Berlin
+1233,Dittigheim,Frombergstraße,,97941,Tauberbischofsheim,Baden-Württemberg,DE,CATEGORY_6,DB Regio-Netze,DE,,,Europe/Berlin
+1234,Ditzingen,Stuttgarter Str.,39,71254,Ditzingen,Baden-Württemberg,DE,CATEGORY_4,DB S&S,DE,48.823611,9.06705,Europe/Berlin
+1235,Dortmund-Lütgendortmund,Heinrich-Sondermann-Platz,,44388,Dortmund,Nordrhein-Westfalen,DE,CATEGORY_6,DB S&S,DE,51.500735,7.334177,Europe/Berlin
+1236,Döbeln Hbf,Bahnhofstr.,25,04720,Döbeln,Sachsen,DE,CATEGORY_5,DB S&S,DE,51.126568,13.094988,Europe/Berlin
+1239,Döberitz,Ausbau,24,14727,Premnitz OT Döberitz,Brandenburg,DE,CATEGORY_7,DB S&S,DE,52.524333,12.368462,Europe/Berlin
+124,Altmittweida,Am Bahnhof,3,09648,Altmittweida,Sachsen,DE,CATEGORY_6,DB S&S,DE,50.9687044,12.9596454,Europe/Berlin
+1240,Doberlug-Kirchhain,Am Bahnhof,1,03253,Doberlug-Kirchhain,Brandenburg,DE,CATEGORY_4,DB S&S,DE,51.620576,13.564241,Europe/Berlin
+1242,Doberschütz,Bahnhofstr.,16,04838,Doberschütz,Sachsen,DE,CATEGORY_6,DB S&S,DE,51.492237,12.745785,Europe/Berlin
+1245,Dodendorf,Bahnhofstr.,1,39171,Sülzetal,Sachsen-Anhalt,DE,CATEGORY_6,DB S&S,DE,52.048952,11.613086,Europe/Berlin
+1246,Dogern,Bahnhofstr.,3,79804,Dogern,Baden-Württemberg,DE,CATEGORY_6,DB S&S,DE,47.608887,8.167356,Europe/Berlin
+1247,Döggingen,Am Bahnhof,7,78199,Bräunlingen,Baden-Württemberg,DE,CATEGORY_6,DB S&S,DE,47.893654,8.441107,Europe/Berlin
+125,Morschen-Altmorschen,Am Bahnhof,1,34326,Morschen,Hessen,DE,CATEGORY_6,DB S&S,DE,51.067275,9.610756,Europe/Berlin
+1250,Dohna (Sachs),Müglitztalstr.,29,01809,Dohna,Sachsen,DE,CATEGORY_7,DB S&S,DE,50.961188,13.855565,Europe/Berlin
+1254,Dollbergen,Ladestr.,1,31311,Uetze,Niedersachsen,DE,CATEGORY_5,DB S&S,DE,52.417153,10.181657,Europe/Berlin
+1255,Dollern,Am Bahnhof,1,21739,Dollern,Niedersachsen,DE,CATEGORY_6,DB S&S,DE,53.545425,9.55808,Europe/Berlin
+1256,Dollnstein,Bahnhofstr.,8,91795,Dollnstein,Bayern,DE,CATEGORY_6,DB S&S,DE,48.871425,11.079009,Europe/Berlin
+1257,Döllstädt,Bahnhofstr.,19,99100,Döllstädt,Thüringen,DE,CATEGORY_7,DB S&S,DE,51.084886,10.813398,Europe/Berlin
+1259,Dombühl,Am Bahnhof,2,91601,Dombühl,Bayern,DE,CATEGORY_5,DB S&S,DE,49.25211,10.298523,Europe/Berlin
+126,Altomünster,Bahnhofstr.,3,85250,Altomünster,Bayern,DE,CATEGORY_6,DB S&S,DE,48.384918,11.255133,Europe/Berlin
+1262,Domnitz (SaalKr),Am Bahnhof,1,06420,Domnitz,Sachsen-Anhalt,DE,CATEGORY_7,DB S&S,DE,51.635225,11.839973,Europe/Berlin
+1263,Domsühl,Bahnhofstraße,5,19374,Domsühl,Mecklenburg-Vorpommern,DE,CATEGORY_7,DB S&S,DE,53.485372,11.765869,Europe/Berlin
+1264,Donaueschingen,Bahnhofstr.,1,78166,Donaueschingen,Baden-Württemberg,DE,CATEGORY_4,DB S&S,DE,47.947786,8.498919,Europe/Berlin
+1265,Donauwörth,Bahnhofstr.,34,86609,Donauwörth,Bayern,DE,CATEGORY_4,DB S&S,DE,48.714026,10.771443,Europe/Berlin
+1267,Dorfchemnitz (b Zwönitz),An der Bahn,,09619,Zwönitz,Sachsen,DE,CATEGORY_6,DB Regio-Netze,DE,,,Europe/Berlin
+1268,Dorfen Bahnhof,Bahnhofstr.,8,84405,Dorfen,Bayern,DE,CATEGORY_5,DB S&S,DE,48.267048,12.159686,Europe/Berlin
+127,Altötting,Bahnhofsplatz,1,84503,Altötting,Bayern,DE,CATEGORY_6,DB Regio-Netze,DE,,,Europe/Berlin
+1270,Dörfles-Esbach,Bahnhofstraße,,96487,Dörfles-Esbach,Bayern,DE,CATEGORY_6,DB S&S,DE,50.282751,10.997756,Europe/Berlin
+1271,Dorfmark,Poststr.,14,29683,Bad Fallingbostel,Niedersachsen,DE,CATEGORY_6,DB S&S,DE,52.899139,9.771305,Europe/Berlin
+1272,Dorfprozelten,Bahnstraße,,97904,Dorfprozelten,Bayern,DE,CATEGORY_6,DB Regio-Netze,DE,,,Europe/Berlin
+1273,Dorheim (Wetterau),Wetteraustr.,72,61169,Friedberg (Hessen),Hessen,DE,CATEGORY_6,DB S&S,DE,50.352702,8.79051,Europe/Berlin
+1274,Dormagen,Willy-Brandt-Platz,87,41540,Dormagen,Nordrhein-Westfalen,DE,CATEGORY_4,DB S&S,DE,51.099495,6.814837,Europe/Berlin
+1275,Dormagen Chempark,Parallelweg,,50769,Köln,Nordrhein-Westfalen,DE,CATEGORY_6,DB S&S,DE,51.077045,6.838171,Europe/Berlin
+1276,Dornburg (Saale),Naschhäuserstr.,22,07778,Dornburg (Saale),Thüringen,DE,CATEGORY_6,DB S&S,DE,51.008613,11.675499,Europe/Berlin
+1278,Groß Gerau-Dornheim,Bahnhofstr.,100,64521,Groß-Gerau,Hessen,DE,CATEGORY_6,DB S&S,DE,49.877507,8.493656,Europe/Berlin
+128,Altranft,Alte Heerstr.,27,16259,Bad Freienwalde (Oder),Brandenburg,DE,CATEGORY_6,DB S&S,DE,52.763368,14.082107,Europe/Berlin
+1280,Dornstetten,Tübinger Str.,36,72280,Dornstetten,Baden-Württemberg,DE,CATEGORY_6,DB S&S,DE,48.469635,8.50321412,Europe/Berlin
+1281,Dörpen,Neudörpener Straße,,26892,Dörpen,Niedersachsen,DE,CATEGORY_6,DB S&S,DE,52.970405,7.354509,Europe/Berlin
+1282,Dörrberg,Dörrberg,2c,99330,Gräfenroda,Thüringen,DE,CATEGORY_7,DB S&S,DE,50.735351,10.798671,Europe/Berlin
+1284,Dorsten,Vestische Allee,14,46282,Dorsten,Nordrhein-Westfalen,DE,CATEGORY_4,DB S&S,DE,51.658274,6.9705,Europe/Berlin
+1285,Dortelweil,Bahnhofstr.,1,61118,Bad Vilbel,Hessen,DE,CATEGORY_5,DB S&S,DE,50.207503,8.751145,Europe/Berlin
+1287,Dortmund-Asseln Mitte,Asselburgstr.,,44319,Dortmund,Nordrhein-Westfalen,DE,CATEGORY_6,DB S&S,DE,51.526219,7.583839,Europe/Berlin
+1288,Dortmund-Germania,Steinhammerstr.,,44379,Dortmund,Nordrhein-Westfalen,DE,CATEGORY_6,DB S&S,DE,51.498124,7.363728,Europe/Berlin
+1289,Dortmund Hbf,Königswall,15,44137,Dortmund,Nordrhein-Westfalen,DE,CATEGORY_1,DB S&S,DE,51.517896,7.45929,Europe/Berlin
+1290,Dortmund-Knappschaftskrankenhaus,Hörder Str.,,44309,Dortmund,Nordrhein-Westfalen,DE,CATEGORY_6,DB S&S,DE,51.518768,7.537458,Europe/Berlin
+1291,Dortmund-Möllerbrücke,Hollestr.,,44137,Dortmund,Nordrhein-Westfalen,DE,CATEGORY_6,DB S&S,DE,51.507157,7.451706,Europe/Berlin
+1292,Dortmund-Stadthaus,Ruhrallee/Sonnenstr.,,44149,Dortmund,Nordrhein-Westfalen,DE,CATEGORY_5,DB S&S,DE,51.507828,7.468764,Europe/Berlin
+1293,Salmtal,Neuer Bahnhof,1,54528,Salmtal,Rheinland-Pfalz,DE,CATEGORY_6,DB S&S,DE,49.921684,6.839254,Europe/Berlin
+1294,Dortmund-Tierpark,Am Bahnhof Tierpark,,44225,Dortmund,Nordrhein-Westfalen,DE,CATEGORY_6,DB S&S,DE,51.478193,7.461995,Europe/Berlin
+1295,Dortmund-Universität,Universitätsgelände,,44227,Dortmund,Nordrhein-Westfalen,DE,CATEGORY_4,DB S&S,DE,51.49274,7.417708,Europe/Berlin
+1296,Dortmund-West,Lange Str.,,44137,Dortmund,Nordrhein-Westfalen,DE,CATEGORY_6,DB S&S,DE,51.509652,7.438938,Europe/Berlin
+1297,Dortmund Signal-Iduna-Park,Bolmker Weg,,44139,Dortmund,Nordrhein-Westfalen,DE,CATEGORY_4,DB S&S,DE,51.490728,7.457573,Europe/Berlin
+1298,Dortmund-Aplerbeck,Wittbräucker Str.,,44287,Dortmund,Nordrhein-Westfalen,DE,CATEGORY_6,DB S&S,DE,51.490151,7.553189,Europe/Berlin
+1299,Dortmund-Aplerbeck Süd,Mondstr.,,44287,Dortmund,Nordrhein-Westfalen,DE,CATEGORY_6,DB S&S,DE,51.484437,7.549982,Europe/Berlin
+13,Adelsdorf (Mittelfr),Adelsdorf - St,2413,90616,Neuhof a.d.Zenn,Bayern,DE,CATEGORY_6,DB S&S,DE,49.474944,10.687041,Europe/Berlin
+130,Altshausen,Bahnhof,1,88361,Altshausen,Baden-Württemberg,DE,CATEGORY_6,DB S&S,DE,47.930711,9.551478,Europe/Berlin
+1300,Dortmund-Barop,Baroper Bahnhofstr.,,44225,Dortmund,Nordrhein-Westfalen,DE,CATEGORY_5,DB S&S,DE,51.476954,7.431298,Europe/Berlin
+1301,Dortmund-Bövinghausen,Merklinder Str.,,44388,Dortmund,Nordrhein-Westfalen,DE,CATEGORY_6,DB S&S,DE,51.519036,7.327477,Europe/Berlin
+1302,Dortmund-Brackel,Westfälische Str.,,44309,Dortmund,Nordrhein-Westfalen,DE,CATEGORY_5,DB S&S,DE,51.520757,7.550083,Europe/Berlin
+1303,Dortmund-Derne,Hostedder Str.,,44329,Dortmund,Nordrhein-Westfalen,DE,CATEGORY_5,DB S&S,DE,51.567716,7.528822,Europe/Berlin
+1304,Dortmund-Dorstfeld,Wittener Str.,,44149,Dortmund,Nordrhein-Westfalen,DE,CATEGORY_3,DB S&S,DE,51.509376,7.424864,Europe/Berlin
+1305,Dortmund-Dorstfeld Süd,Friederich Henkel Weg,,44149,Dortmund,Nordrhein-Westfalen,DE,CATEGORY_4,DB S&S,DE,51.500632,7.420017,Europe/Berlin
+1306,Dortmund-Hörde,Hörder Bahnhofstr.,,44263,Dortmund,Nordrhein-Westfalen,DE,CATEGORY_4,DB S&S,DE,51.487782,7.500029,Europe/Berlin
+1307,Dortmund-Huckarde,Aspeystr.,,44369,Dortmund,Nordrhein-Westfalen,DE,CATEGORY_6,DB S&S,DE,51.532623,7.402353,Europe/Berlin
+1308,Dortmund-Huckarde Nord,Altfriedstr.,,44369,Dortmund,Nordrhein-Westfalen,DE,CATEGORY_7,DB S&S,DE,51.533667,7.415095,Europe/Berlin
+1309,Dortmund-Kirchderne,Rüschebrink Str.,,44143,Dortmund,Nordrhein-Westfalen,DE,CATEGORY_6,DB S&S,DE,51.547075,7.510105,Europe/Berlin
+131,Altstädten (Allgäu),Untere Ebnat,15,87527,Sonthofen,Bayern,DE,CATEGORY_6,DB S&S,DE,47.48855,10.280907,Europe/Berlin
+1310,Dortmund-Kirchhörde,Hagener Str.,,44229,Dortmund,Nordrhein-Westfalen,DE,CATEGORY_6,DB S&S,DE,51.464241,7.457764,Europe/Berlin
+1311,Dortmund-Kley,Kleyer-Weg,,44149,Dortmund,Nordrhein-Westfalen,DE,CATEGORY_4,DB S&S,DE,51.489467,7.365374,Europe/Berlin
+1312,Dortmund-Körne,Kirschbaumweg,,44143,Dortmund,Nordrhein-Westfalen,DE,CATEGORY_6,DB S&S,DE,51.51343,7.51537,Europe/Berlin
+1313,Dortmund-Körne West,Berthold-Hof,,44143,Dortmund,Nordrhein-Westfalen,DE,CATEGORY_6,DB S&S,DE,51.509939,7.502409,Europe/Berlin
+1314,Dortmund-Kruckel,Kruckeler Str.,,44229,Dortmund,Nordrhein-Westfalen,DE,CATEGORY_6,DB S&S,DE,51.458332,7.415529,Europe/Berlin
+1315,Dortmund-Kurl,Mühlacker-Str.,,44319,Dortmund,Nordrhein-Westfalen,DE,CATEGORY_4,DB S&S,DE,51.556979,7.585291,Europe/Berlin
+1316,Dortmund-Löttringhausen,Hellerstr.,,44229,Dortmund,Nordrhein-Westfalen,DE,CATEGORY_6,DB S&S,DE,51.451655,7.447228,Europe/Berlin
+1317,Dortmund-Lütgendortmund Nord,Westricher Str.,,44388,Dortmund,Nordrhein-Westfalen,DE,CATEGORY_7,DB S&S,DE,51.508523,7.342401,Europe/Berlin
+1318,Dortmund-Marten,Hageney Str.,,44379,Dortmund,Nordrhein-Westfalen,DE,CATEGORY_6,DB S&S,DE,51.514462,7.374408,Europe/Berlin
+1319,Dortmund-Marten Süd,Schulte Heuthaus-Str.,,44379,Dortmund,Nordrhein-Westfalen,DE,CATEGORY_6,DB S&S,DE,51.507984,7.387479,Europe/Berlin
+132,Alttann,Birkenallee,14,88364,Wolfegg,Baden-Württemberg,DE,CATEGORY_7,DB S&S,DE,47.841214,9.793037,Europe/Berlin
+1320,Dortmund-Mengede,Castroper Str.,,44359,Dortmund,Nordrhein-Westfalen,DE,CATEGORY_4,DB S&S,DE,51.570345,7.374374,Europe/Berlin
+1321,Dortmund-Nette/Oestrich,Haberlandstr.,,44359,Dortmund,Nordrhein-Westfalen,DE,CATEGORY_5,DB S&S,DE,51.561495,7.377731,Europe/Berlin
+1322,Dortmund-Oespel,Auf der Linnert,,44149,Dortmund,Nordrhein-Westfalen,DE,CATEGORY_4,DB S&S,DE,51.488397,7.383811,Europe/Berlin
+1323,Dortmund-Rahm,Rahmer Str.,,44369,Dortmund,Nordrhein-Westfalen,DE,CATEGORY_6,DB S&S,DE,51.525728,7.395252,Europe/Berlin
+1324,Dortmund-Scharnhorst,Flughafenstr.,,44328,Dortmund,Nordrhein-Westfalen,DE,CATEGORY_5,DB S&S,DE,51.538373,7.536564,Europe/Berlin
+1325,Dortmund-Sölde,Jasminstr.,,44289,Dortmund,Nordrhein-Westfalen,DE,CATEGORY_6,DB S&S,DE,51.49546,7.589205,Europe/Berlin
+1326,Dortmund-Westerfilde,Westerfilder Str.,,44357,Dortmund,Nordrhein-Westfalen,DE,CATEGORY_6,DB S&S,DE,51.548334,7.380213,Europe/Berlin
+1327,Dortmund-Wickede,Wickeder Hellweg,,44319,Dortmund,Nordrhein-Westfalen,DE,CATEGORY_6,DB S&S,DE,51.53393,7.62466,Europe/Berlin
+1328,Dortmund-Wickede West,Bebelstr.,,44319,Dortmund,Nordrhein-Westfalen,DE,CATEGORY_6,DB S&S,DE,51.529455,7.607215,Europe/Berlin
+1329,Dortmund-Wischlingen,Höfkerstr.,,44149,Dortmund,Nordrhein-Westfalen,DE,CATEGORY_6,DB S&S,DE,51.51929,7.412863,Europe/Berlin
+133,Alzey,Bahnhofstr.,30,55232,Alzey,Rheinland-Pfalz,DE,CATEGORY_3,DB S&S,DE,49.7502,8.109749,Europe/Berlin
+1330,Dorum (Kr Cuxhaven),Bahnhofstr.,1,27632,Dorum,Niedersachsen,DE,CATEGORY_6,DB S&S,DE,53.688743,8.575801,Europe/Berlin
+1331,Dossow (Prign),Bahnhofstr.,1,16909,Wittstock/DosseOT Dossow,Brandenburg,DE,CATEGORY_7,DB S&S,DE,53.121209,12.520886,Europe/Berlin
+1332,Dottenheim,Am Bahnhof,4,91463,Dietersheim,Bayern,DE,CATEGORY_7,DB S&S,DE,49.547496,10.522573,Europe/Berlin
+1333,Drahnsdorf,Bahnhofstr.,3,15938,Drahnsdorf,Brandenburg,DE,CATEGORY_6,DB S&S,DE,51.915391,13.58125,Europe/Berlin
+1337,Drebkau,Bahnhofstr.,3,03116,Drebkau,Brandenburg,DE,CATEGORY_6,DB S&S,DE,51.655084,14.22313,Europe/Berlin
+1338,Dreieich-Dreieichenhain,Bahnstraße,39,63303,Dreieich,Hessen,DE,CATEGORY_6,DB S&S,DE,49.998468,8.708693,Europe/Berlin
+1339,Dreileben-Drackenstedt,Bahnhofstr.,1,39365,Drackenstedt,Sachsen-Anhalt,DE,CATEGORY_6,DB S&S,DE,52.143852,11.341559,Europe/Berlin
+134,Amberg,Kaiser-Ludwig-Ring,7,92224,Amberg,Bayern,DE,CATEGORY_5,DB S&S,DE,49.447616,11.862902,Europe/Berlin
+1341,Drensteinfurt,Bahnhofsplatz,2,48317,Drensteinfurt,Nordrhein-Westfalen,DE,CATEGORY_5,DB S&S,DE,51.799158,7.733609,Europe/Berlin
+1342,Dresden Grenzstraße,Grenzstr.,12,01109,Dresden,Sachsen,DE,CATEGORY_6,DB S&S,DE,51.128298,13.777737,Europe/Berlin
+1343,Dresden Hbf,Wiener Platz,4,01069,Dresden,Sachsen,DE,CATEGORY_1,DB S&S,DE,51.040563,13.732035,Europe/Berlin
+1344,Dresden Industriegelände,Königsbrücker Straße,,01129,Dresden,Sachsen,DE,CATEGORY_5,DB S&S,DE,51.087456,13.762772,Europe/Berlin
+1345,Dresden Mitte,Jahnstraße,7,01067,Dresden,Sachsen,DE,CATEGORY_4,DB S&S,DE,51.056168,13.724109,Europe/Berlin
+1346,Dresden-Cotta,Hamburger Str.,86,01067,Dresden,Sachsen,DE,CATEGORY_6,DB S&S,DE,51.062157,13.683298,Europe/Berlin
+1347,Dresden-Dobritz,Moränenende,,01237,Dresden,Sachsen,DE,CATEGORY_5,DB S&S,DE,51.011614,13.808477,Europe/Berlin
+1348,Dresden-Friedrichstadt,Waltherstraße,36,01067, Dresden,Sachsen,DE,CATEGORY_5,DB S&S,DE,51.056034,13.708151,Europe/Berlin
+135,Münster-Amelsbüren,Deermannstr.,40,48163,Münster-Amelsbüren,Nordrhein-Westfalen,DE,CATEGORY_6,DB S&S,DE,51.883662,7.598897,Europe/Berlin
+1350,Dresden-Kemnitz,Meißner Landstr.,,01157,Dresden,Sachsen,DE,CATEGORY_6,DB S&S,DE,51.073084,13.668919,Europe/Berlin
+1351,Dresden-Klotzsche,Zur neuen Brücke,4a,01109,Dresden,Sachsen,DE,CATEGORY_4,DB S&S,DE,51.114667,13.78911,Europe/Berlin
+1352,Dresden-Neustadt,Schlesischer Platz,1,01097,Dresden,Sachsen,DE,CATEGORY_2,DB S&S,DE,51.065899,13.740701,Europe/Berlin
+1353,Dresden-Niedersedlitz Hp,Bahnhofstr.,21,01259,Dresden,Sachsen,DE,CATEGORY_5,DB S&S,DE,50.999654,13.828399,Europe/Berlin
+1354,Dresden-Pieschen,Leisniger Platz,7a,01127,Dresden,Sachsen,DE,CATEGORY_5,DB S&S,DE,51.081859,13.725527,Europe/Berlin
+1355,Dresden-Plauen,Altplauen,20,01187,Dresden,Sachsen,DE,CATEGORY_5,DB S&S,DE,51.02963,13.70317,Europe/Berlin
+1356,Dresden-Reick,Oskar-Röder-Str.,5,01237,Dresden,Sachsen,DE,CATEGORY_5,DB S&S,DE,51.021317,13.790514,Europe/Berlin
+1357,Dresden-Stetzsch,Am Urnenfeld,33,01157,Dresden,Sachsen,DE,CATEGORY_6,DB S&S,DE,51.0804797,13.6518645,Europe/Berlin
+1358,Dresden-Strehlen,Oskarstr.,14,01219,Dresden,Sachsen,DE,CATEGORY_5,DB S&S,DE,51.030677,13.761861,Europe/Berlin
+1359,Dresden-Trachau,Am Trachauer Bahnhof,7,01129,Dresden,Sachsen,DE,CATEGORY_5,DB S&S,DE,51.0899655,13.7038779,Europe/Berlin
+1360,Dresden-Zschachwitz,Fritz-Schreiter-Str.,40,01259,Dresden,Sachsen,DE,CATEGORY_5,DB S&S,DE,50.989652,13.84493,Europe/Berlin
+1362,Dreye,An der Dreyer Str.,82,28844,Weyhe,Niedersachsen,DE,CATEGORY_6,DB S&S,DE,53.018425,8.871103,Europe/Berlin
+1364,Drohndorf-Mehringen,Bahnhofstr.,1,06456,Mehringen,Sachsen-Anhalt,DE,CATEGORY_7,DB S&S,DE,51.721692,11.515648,Europe/Berlin
+1370,Ducherow,Am Bahnhof,,17398,Ducherow,Mecklenburg-Vorpommern,DE,CATEGORY_6,DB S&S,DE,53.766135,13.796021,Europe/Berlin
+1371,Duckterath,Damaschkestr.,4,51427,Bergisch Gladbach,Nordrhein-Westfalen,DE,CATEGORY_5,DB S&S,DE,50.984815,7.103496,Europe/Berlin
+1372,Rodgau-Dudenhofen,Karlstr.,18a,63110,Rodgau-Dudenhofen (b Offe,Hessen,DE,CATEGORY_5,DB S&S,DE,50.010661,8.884482,Europe/Berlin
+1373,Dudweiler,Bahnhofstr.,70,66125,Saarbrücken,Saarland,DE,CATEGORY_5,DB S&S,DE,49.277299,7.027351,Europe/Berlin
+1374,Duisburg Hbf,Portsmouthplatz,1,47051,Duisburg,Nordrhein-Westfalen,DE,CATEGORY_1,DB S&S,DE,51.429785,6.775903,Europe/Berlin
+1375,Duisburg Schlenk,Im Schlenk,89,47055,Duisburg,Nordrhein-Westfalen,DE,CATEGORY_5,DB S&S,DE,51.401781,6.773206,Europe/Berlin
+1376,Duisburg-Bissingheim,Bissingheimer Str.,250,47279,Duisburg,Nordrhein-Westfalen,DE,CATEGORY_7,DB S&S,DE,51.392175,6.808067,Europe/Berlin
+1377,Duisburg-Buchholz,Sittardsberger Allee,202,47249,Duisburg,Nordrhein-Westfalen,DE,CATEGORY_4,DB S&S,DE,51.382919,6.775406,Europe/Berlin
+1379,Duisburg-Großenbaum,Großenbaumer Allee,1,47269,Duisburg,Nordrhein-Westfalen,DE,CATEGORY_4,DB S&S,DE,51.364774,6.77747,Europe/Berlin
+138,Amorbach,Am Bahnhof,,63916,Amorbach,Bayern,DE,CATEGORY_6,DB Regio-Netze,DE,,,Europe/Berlin
+1380,Duisburg-Hochfeld Süd,Wanheimerstr.,221,47055,Duisburg,Nordrhein-Westfalen,DE,CATEGORY_5,DB S&S,DE,51.409,6.753408,Europe/Berlin
+1381,Duisburg-Meiderich Ost,Bügelstr.,2,47138,Duisburg,Nordrhein-Westfalen,DE,CATEGORY_6,DB S&S,DE,51.468855,6.800789,Europe/Berlin
+1382,Duisburg-Meiderich Süd,Singstr.,3,47137,Duisburg,Nordrhein-Westfalen,DE,CATEGORY_4,DB S&S,DE,51.468831,6.780191,Europe/Berlin
+1383,Duisburg-Obermeiderich,Obermeidericherstr.,2,47138,Duisburg,Nordrhein-Westfalen,DE,CATEGORY_6,DB S&S,DE,51.468792,6.821232,Europe/Berlin
+1384,Duisburg-Rahm,Am Rahmer Bach,86,47269,Duisburg,Nordrhein-Westfalen,DE,CATEGORY_5,DB S&S,DE,51.346835,6.779924,Europe/Berlin
+1386,Duisburg-Ruhrort,Friedrich-Ebert-Str.,8,47119,Duisburg,Nordrhein-Westfalen,DE,CATEGORY_6,DB S&S,DE,51.45728,6.736015,Europe/Berlin
+1387,Duisburg-Wedau,Wedauer Brücke,1,47279,Duisburg,Nordrhein-Westfalen,DE,CATEGORY_6,DB S&S,DE,51.399253,6.803575,Europe/Berlin
+1388,Duisburg-Entenfang,Bissingheimer Str.,,47279,Duisburg,Nordrhein-Westfalen,DE,CATEGORY_7,DB S&S,DE,51.377123,6.813422,Europe/Berlin
+1389,Viersen-Dülken,Am Bahnhof,1,41751,Viersen,Nordrhein-Westfalen,DE,CATEGORY_5,DB S&S,DE,51.257149,6.33793,Europe/Berlin
+139,Ampfing,Münchner Str.,29,84539,Ampfing,Bayern,DE,CATEGORY_5,DB S&S,DE,48.253949,12.410919,Europe/Berlin
+1390,Dülmen,Bahnhofstr.,50,48249,Dülmen,Nordrhein-Westfalen,DE,CATEGORY_4,DB S&S,DE,51.827676,7.295765,Europe/Berlin
+1391,Durach,Bahnhofstr.,3,87471,Durach,Bayern,DE,CATEGORY_6,DB S&S,DE,47.696452,10.343797,Europe/Berlin
+1392,Düren,Hauptbahnhof,1,52351,Düren,Nordrhein-Westfalen,DE,CATEGORY_3,DB S&S,DE,50.809517,6.482451,Europe/Berlin
+1393,Durmersheim,Bahnhofstr.,2,76448,Durmersheim,Baden-Württemberg,DE,CATEGORY_5,DB S&S,DE,48.928904,8.272631,Europe/Berlin
+1396,Dürrnhaar,Biechlweg,,85653,Aying,Bayern,DE,CATEGORY_6,DB S&S,DE,47.993954,11.736607,Europe/Berlin
+1397,Dürrröhrsdorf,Bahnhofstr.,9,01833,Dürrröhrsdorf-Dittersbach,Sachsen,DE,CATEGORY_6,DB S&S,DE,51.028138,14.00738,Europe/Berlin
+1399,Düsseldorf-Benrath,Heubesstr.,23,40597,Düsseldorf,Nordrhein-Westfalen,DE,CATEGORY_3,DB S&S,DE,51.162293,6.878931,Europe/Berlin
+14,Adelsheim Nord,Osterburkener Str.,40,74706,Osterburken,Baden-Württemberg,DE,CATEGORY_6,DB S&S,DE,49.42149,9.392754,Europe/Berlin
+140,Amsdorf,Chausseestr.,1,06317,Amsdorf,Sachsen-Anhalt,DE,CATEGORY_6,DB S&S,DE,51.463561,11.71979,Europe/Berlin
+1400,Düsseldorf Flughafen,Ahrensplatz,1,40474,Düsseldorf,Nordrhein-Westfalen,DE,CATEGORY_3,DB S&S,DE,51.292009,6.786836,Europe/Berlin
+1401,Düsseldorf Hbf,Konrad-Adenauer-Platz,14,40210,Düsseldorf,Nordrhein-Westfalen,DE,CATEGORY_1,DB S&S,DE,51.219962,6.794319,Europe/Berlin
+1402,Düsseldorf Volksgarten,Kruppstr.,57,40227,Düsseldorf,Nordrhein-Westfalen,DE,CATEGORY_5,DB S&S,DE,51.210138,6.791978,Europe/Berlin
+1403,Düsseldorf Wehrhahn,Am Wehrhahn,101,40211,Düsseldorf,Nordrhein-Westfalen,DE,CATEGORY_4,DB S&S,DE,51.228447,6.798173,Europe/Berlin
+1404,Düsseldorf Zoo,Schinkelstr.,51,40211,Düsseldorf,Nordrhein-Westfalen,DE,CATEGORY_4,DB S&S,DE,51.236962,6.796924,Europe/Berlin
+1405,Düsseldorf-Bilk,Friedrichstr.,145,40217,Düsseldorf,Nordrhein-Westfalen,DE,CATEGORY_4,DB S&S,DE,51.207994,6.775578,Europe/Berlin
+1406,Düsseldorf-Derendorf,Münsterstr.,199,40470,Düsseldorf,Nordrhein-Westfalen,DE,CATEGORY_3,DB S&S,DE,51.247624,6.794512,Europe/Berlin
+1407,Düsseldorf-Eller,Vennhauser Allee,62,40627,Düsseldorf,Nordrhein-Westfalen,DE,CATEGORY_5,DB S&S,DE,51.20267,6.851927,Europe/Berlin
+1408,Düsseldorf-Eller Mitte,Gumbertstr.,63,40229,Düsseldorf,Nordrhein-Westfalen,DE,CATEGORY_5,DB S&S,DE,51.202058,6.838607,Europe/Berlin
+1409,Düsseldorf-Eller Süd,Flottenstr.,15,40229,Düsseldorf,Nordrhein-Westfalen,DE,CATEGORY_5,DB S&S,DE,51.198072,6.836128,Europe/Berlin
+141,Amstetten (Württ),Am Bahnhof,1,73340,Amstetten (Württ),Baden-Württemberg,DE,CATEGORY_6,DB S&S,DE,48.578328,9.872965,Europe/Berlin
+1410,Düsseldorf-Flingern,Dorotheenstr.,81,40235,Düsseldorf,Nordrhein-Westfalen,DE,CATEGORY_5,DB S&S,DE,51.2262413,6.81028426,Europe/Berlin
+1411,Düsseldorf-Friedrichstadt,Oberbilker Allee,76,40215,Düsseldorf,Nordrhein-Westfalen,DE,CATEGORY_5,DB S&S,DE,51.2119748,6.78905725,Europe/Berlin
+1412,Düsseldorf-Garath,Fritz-Erler-Str.,1,40595,Düsseldorf,Nordrhein-Westfalen,DE,CATEGORY_5,DB S&S,DE,51.143626,6.897675,Europe/Berlin
+1413,Düsseldorf-Gerresheim,Heyestr.,194,40625,Düsseldorf,Nordrhein-Westfalen,DE,CATEGORY_5,DB S&S,DE,51.220361,6.863933,Europe/Berlin
+1414,Düsseldorf-Hamm,Kuhstr.,29,40221,Düsseldorf,Nordrhein-Westfalen,DE,CATEGORY_5,DB S&S,DE,51.21077,6.740335,Europe/Berlin
+1415,Düsseldorf-Hellerhof,Hellerhofweg,1,40595,Düsseldorf,Nordrhein-Westfalen,DE,CATEGORY_5,DB S&S,DE,51.133036,6.908277,Europe/Berlin
+1416,Düsseldorf-Oberbilk,Siegburger Str.,13,40591,Düsseldorf,Nordrhein-Westfalen,DE,CATEGORY_5,DB S&S,DE,51.208047,6.808678,Europe/Berlin
+1417,Düsseldorf-Rath,Westfalenstr.,92,40472,Düsseldorf,Nordrhein-Westfalen,DE,CATEGORY_5,DB S&S,DE,51.264124,6.821063,Europe/Berlin
+1418,Düsseldorf-Rath Mitte,Münsterstr.,63,40472,Düsseldorf,Nordrhein-Westfalen,DE,CATEGORY_5,DB S&S,DE,51.261136,6.808398,Europe/Berlin
+1419,Düsseldorf-Reisholz,Henkelstr.,317,40599,Düsseldorf,Nordrhein-Westfalen,DE,CATEGORY_4,DB S&S,DE,51.180782,6.860953,Europe/Berlin
+142,Amtshainersdorf,Hohnsteiner Straße,22a,01855,Sebnitz - Amtshainersdorf,Sachsen,DE,CATEGORY_7,DB S&S,DE,50.966322,14.232364,Europe/Berlin
+1420,Düsseldorf-Unterrath,Hamborner Str.,40,40468,Düsseldorf,Nordrhein-Westfalen,DE,CATEGORY_4,DB S&S,DE,51.276732,6.788783,Europe/Berlin
+1421,Düsseldorf Völklinger Straße,Völklinger Str.,29,40219,Düsseldorf,Nordrhein-Westfalen,DE,CATEGORY_5,DB S&S,DE,51.210208,6.760431,Europe/Berlin
+1422,Dußlingen,Bahnhofstr.,14,72144,Dußlingen,Baden-Württemberg,DE,CATEGORY_6,DB S&S,DE,48.452408,9.058444,Europe/Berlin
+1424,Dutenhofen (Kr Wetzlar),Bahnhofstr.,50,35582,Wetzlar,Hessen,DE,CATEGORY_6,DB S&S,DE,50.56445,8.598905,Europe/Berlin
+1425,Dütschow,Dorfstraße,,19372,Spornitz,Mecklenburg-Vorpommern,DE,CATEGORY_7,DB S&S,DE,53.40194,11.678565,Europe/Berlin
+1427,Ebelsbach-Eltmann,Bahnhofstraße,,97500,Ebelsbach,Bayern,DE,CATEGORY_6,DB S&S,DE,49.982672,10.669614,Europe/Berlin
+1428,Ebenhausen (Unterfr),Bahnhofstr.,36,97714,Oerlenbach,Bayern,DE,CATEGORY_5,DB S&S,DE,50.131305,10.13804,Europe/Berlin
+1429,Ebenhausen-Schäftlarn,Poststr.,1,82067,Schäftlarn,Bayern,DE,CATEGORY_6,DB S&S,DE,47.978686,11.453608,Europe/Berlin
+1430,Ebenhofen,Bahnhofstr.,1,87640,Biessenhofen,Bayern,DE,CATEGORY_7,DB S&S,DE,47.814818,10.618479,Europe/Berlin
+1431,Ebensfeld,Bahnhofstr.,18,96250,Ebensfeld,Bayern,DE,CATEGORY_5,DB S&S,DE,50.068731,10.954725,Europe/Berlin
+1432,Eberbach,Bahnhofplatz,1,69412,Eberbach,Baden-Württemberg,DE,CATEGORY_3,DB S&S,DE,49.465768,8.984152,Europe/Berlin
+1433,Ebermannstadt,Bahnhofplatz,1,91320,Ebermannstadt,Bayern,DE,CATEGORY_6,DB S&S,DE,49.776801,11.186873,Europe/Berlin
+1434,Ebermergen,Bahnweg,3,86655,Harburg (Schwaben),Bayern,DE,CATEGORY_7,DB S&S,DE,48.75621,10.71096,Europe/Berlin
+1435,Ebern,Häfnergasse,,96106,Ebern,Bayern,DE,CATEGORY_7,DB S&S,DE,50.094163,10.796719,Europe/Berlin
+1438,Ebersbach (Fils),Bahnhofstr.,19,73061,Ebersbach (Fils),Baden-Württemberg,DE,CATEGORY_4,DB S&S,DE,48.71612,9.526582,Europe/Berlin
+1439,Ebersbach (Sachs),Bahnhofstraße,29,02730,Ebersbach,Sachsen,DE,CATEGORY_5,DB S&S,DE,51.004378,14.578802,Europe/Berlin
+144,Andernach,Kurfürstendamm,1,56626,Andernach,Rheinland-Pfalz,DE,CATEGORY_3,DB S&S,DE,50.434542,7.404839,Europe/Berlin
+1440,Ebersberg (Oberbay),Bahnhofstr.,3,85560,Ebersberg (Oberbay),Bayern,DE,CATEGORY_4,DB S&S,DE,48.07497,11.970243,Europe/Berlin
+1441,Ebersbrunn,Bahnhofstr.,6,08115,Lichtentanne,Sachsen,DE,CATEGORY_7,DB S&S,DE,50.651373,12.443215,Europe/Berlin
+1442,Ebersdorf (b Coburg),Bahnhofstraße,,96237,Ebersdorf (b Coburg),Bayern,DE,CATEGORY_6,DB S&S,DE,50.224271,11.064643,Europe/Berlin
+1444,Eberswalde Hbf,Bahnhofsring,17,16225,Eberswalde,Brandenburg,DE,CATEGORY_3,DB S&S,DE,52.834021,13.797062,Europe/Berlin
+1445,Ebertsheim,Bahnhofstr.,1,67280,Ebertsheim,Rheinland-Pfalz,DE,CATEGORY_7,DB S&S,DE,49.564004,8.108237,Europe/Berlin
+1446,Ebing,Bahnhofstr.,124,96179,Rattelsdorf,Bayern,DE,CATEGORY_6,DB S&S,DE,50.001535,10.913846,Europe/Berlin
+1447,Ebringen,Ebringerstr.,1,79227,Schallstadt,Baden-Württemberg,DE,CATEGORY_6,DB S&S,DE,47.96036,7.76818,Europe/Berlin
+1448,Ebstorf (Kr Uelzen),Am Bahnhof,2,29574,Ebstorf,Niedersachsen,DE,CATEGORY_6,DB S&S,DE,53.017192,10.41695,Europe/Berlin
+1449,Echem,Dorfstraße,,21379,Echem,Niedersachsen,DE,CATEGORY_6,DB S&S,DE,53.337006,10.537198,Europe/Berlin
+145,Anderten-Misburg,Anderterstraße,140,30559,Hannover-Anderten,Niedersachsen,DE,CATEGORY_5,DB S&S,DE,52.369161,9.861109,Europe/Berlin
+1450,Eching,Am Bahnhof,,84174,Eching,Bayern,DE,CATEGORY_5,DB S&S,DE,48.302992,11.616754,Europe/Berlin
+1451,Echterdingen,Filderbahnstrasse,,70771,Echterdingen,Baden-Württemberg,DE,CATEGORY_4,DB S&S,DE,48.692152,9.169164,Europe/Berlin
+1452,Echzell,Bahnhofstr.,33,61209,Echzell,Hessen,DE,CATEGORY_6,DB S&S,DE,50.390719,8.891312,Europe/Berlin
+1453,Eckardtsleben,An der Bahnhofstraße,1,99947,Bad Langensalza,Thüringen,DE,CATEGORY_7,DB S&S,DE,51.066093,10.682123,Europe/Berlin
+1455,Eckartsberga (Thür),Am Bahnhof,83,99518,Reisdorf,Thüringen,DE,CATEGORY_7,DB S&S,DE,51.107837,11.55455,Europe/Berlin
+1456,Eckartshausen-Ilshofen,Am Bahnhof,1,74532,Eckartshausen-Ilshofen,Baden-Württemberg,DE,CATEGORY_6,DB S&S,DE,49.152317,9.936645,Europe/Berlin
+1457,Eckernförde,Reeperbahn,54-58,24340,Eckernförde,Schleswig-Holstein,DE,CATEGORY_5,DB S&S,DE,54.4676,9.835115,Europe/Berlin
+1458,Eckersmühlen,Eckersmühlener Hauptstr.,18,91154,Roth,Bayern,DE,CATEGORY_7,DB S&S,DE,49.215472,11.137947,Europe/Berlin
+1459,Eddersheim,Bahnhofstr.,95,65795,Hattersheim am Main,Hessen,DE,CATEGORY_5,DB S&S,DE,50.039492,8.456741,Europe/Berlin
+146,Leipzig Anger-Crottendorf,Am Güterring,2,04318,Leipzig,Sachsen,DE,CATEGORY_6,DB S&S,DE,51.3324325,12.4205194,Europe/Berlin
+1460,Edelfingen,Wilhelm-Frank-Straße,,97980,Bad Mergentheim,Baden-Württemberg,DE,CATEGORY_6,DB Regio-Netze,DE,,,Europe/Berlin
+1461,Edenkoben,Staatsstr.,27,67480,Edenkoben,Rheinland-Pfalz,DE,CATEGORY_6,DB S&S,DE,49.282053,8.14062,Europe/Berlin
+1462,Edesheim (Pfalz),Eisenbahnstr.,25,67483,Edesheim,Rheinland-Pfalz,DE,CATEGORY_6,DB S&S,DE,49.263736,8.139075,Europe/Berlin
+1463,Ediger-Eller,Am Bahnhof,1,56814,Ediger-Eller,Rheinland-Pfalz,DE,CATEGORY_6,DB S&S,DE,50.104697,7.139598,Europe/Berlin
+1464,Edingen (Kr Wetzlar),Brückenstr.,1,35764,Sinn,Hessen,DE,CATEGORY_6,DB S&S,DE,50.632166,8.322823,Europe/Berlin
+1465,Edle Krone,Bahnhof,1,01774,Edle Krone,Sachsen,DE,CATEGORY_6,DB S&S,DE,50.950015,13.583632,Europe/Berlin
+1466,Edling,Bahnstraße,3-15,83533,Edling,Bayern,DE,CATEGORY_6,DB Regio-Netze,DE,,,Europe/Berlin
+1467,Effelder (Thür),Bahnhofstr.,8,96528,Effelder (Thür),Thüringen,DE,CATEGORY_7,DB S&S,DE,50.379875,11.075849,Europe/Berlin
+1468,Effolderbach,Stockheimer Str.,1,63683,Ortenberg,Hessen,DE,CATEGORY_7,DB S&S,DE,50.338192,9.007483,Europe/Berlin
+1469,Efringen-Kirchen,Bahnhofstr.,23,79588,Efringen-Kirchen,Baden-Württemberg,DE,CATEGORY_5,DB S&S,DE,47.655619,7.563918,Europe/Berlin
+147,Angermund,An den Linden,18,40489,Düsseldorf,Nordrhein-Westfalen,DE,CATEGORY_6,DB S&S,DE,51.330748,6.781857,Europe/Berlin
+1471,Egelsbach,Georg-Wesag-Straße,,63329,Egelsbach,Hessen,DE,CATEGORY_5,DB S&S,DE,49.9691127,8.6536324,Europe/Berlin
+1472,Egersdorf,Bahnhofsstr.,2,90556,Cadolzburg,Bayern,DE,CATEGORY_6,DB S&S,DE,49.464638,10.887385,Europe/Berlin
+1473,Egestorf (Deister),Rosenstr.,1,30890,Barsinghausen,Niedersachsen,DE,CATEGORY_5,DB S&S,DE,52.278585,9.514485,Europe/Berlin
+1474,Eggenfelden,Bahnhofstraße,3-8,84307,Eggenfelden,Bayern,DE,CATEGORY_6,DB Regio-Netze,DE,,,Europe/Berlin
+1475,Eggersdorf,Am Bahnhof,1,39221,Eggersdorf,Sachsen-Anhalt,DE,CATEGORY_7,DB S&S,DE,51.975131,11.695948,Europe/Berlin
+1476,Eggesin,Am Bahnhof,2,17367,Eggesin,Mecklenburg-Vorpommern,DE,CATEGORY_7,DB S&S,DE,53.681825,14.073046,Europe/Berlin
+1477,Egglkofen,Bahnhofstraße,13,84546,Egglkofen,Bayern,DE,CATEGORY_6,DB Regio-Netze,DE,,,Europe/Berlin
+1478,Eggmühl,Bahnhofstr.,11,84069,Schierling,Bayern,DE,CATEGORY_5,DB S&S,DE,48.836497,12.182192,Europe/Berlin
+1479,Eggolsheim,Bahnhofstr.,54,91330,Eggolsheim,Bayern,DE,CATEGORY_6,DB S&S,DE,49.775493,11.0361421,Europe/Berlin
+148,Angermünde,Bahnhofsplatz,1c,16278,Angermünde,Brandenburg,DE,CATEGORY_3,DB S&S,DE,53.015221,13.996361,Europe/Berlin
+1481,Eglharting,Forstweg,16,85614,Kirchseeon,Bayern,DE,CATEGORY_4,DB S&S,DE,48.082348,11.864291,Europe/Berlin
+1482,Egling,Bahnhofstr.,32,86492,Egling,Bayern,DE,CATEGORY_6,DB S&S,DE,48.1908641,10.9765041,Europe/Berlin
+1483,Ehingen (Donau),Bahnhofstr.,1,89584,Ehingen (Donau),Baden-Württemberg,DE,CATEGORY_4,DB S&S,DE,48.285677,9.72434,Europe/Berlin
+1484,Ehlenbruch,Ehlenbrucher Str.,56,32791,Lage,Nordrhein-Westfalen,DE,CATEGORY_7,DB S&S,DE,51.98127,8.741243,Europe/Berlin
+1485,Ehlershausen,Alte Bundesstr.,1,31303,Burgdorf,Niedersachsen,DE,CATEGORY_5,DB S&S,DE,52.523609,10.029596,Europe/Berlin
+1486,Ehningen (b Böblingen),Bahnhofstr.,14,71139,Ehningen ,Baden-Württemberg,DE,CATEGORY_4,DB S&S,DE,48.662682,8.94426,Europe/Berlin
+1487,Ehr,Bahnhofsstraße,15,56283,Ehr Halsenbach,Rheinland-Pfalz,DE,CATEGORY_7,DB S&S,DE,50.17572,7.571324,Europe/Berlin
+1488,Ehrang,Ehrangerstraße,3-5,54293,Trier-Ehrang,Rheinland-Pfalz,DE,CATEGORY_5,DB S&S,DE,49.802029,6.685808,Europe/Berlin
+149,Angern-Rogätz,Am Bahnhof,1,39326,Angern,Sachsen-Anhalt,DE,CATEGORY_6,DB S&S,DE,52.338464,11.759535,Europe/Berlin
+1490,Ehringen,Niederelsunger Straße,33,34471,Volkmarsen,Hessen,DE,CATEGORY_6,DB Regio-Netze,DE,,,Europe/Berlin
+1491,Ehringhausen (Kr Lippstadt),Hauptstr.,,59591,Geseke,Nordrhein-Westfalen,DE,CATEGORY_6,DB S&S,DE,51.662813,8.44926,Europe/Berlin
+1492,Ehringshausen (Kr Wetzlar),Am Bahnhof,7,35630,Ehringshausen,Hessen,DE,CATEGORY_6,DB S&S,DE,50.595066,8.383841,Europe/Berlin
+1493,Ehringshausen (Oberhess),Hauptstraße,1,35329,Gemünden (Felda),Hessen,DE,CATEGORY_6,DB S&S,DE,50.70878,9.101862,Europe/Berlin
+1494,Eibau,Bahnhofstr.,10,02739,Eibau,Sachsen,DE,CATEGORY_6,DB S&S,DE,50.986501,14.64616,Europe/Berlin
+1496,Kreuztal-Eichen,Eichenerstraße,31,57223,Kreuztal,Nordrhein-Westfalen,DE,CATEGORY_6,DB S&S,DE,50.973864,7.977934,Europe/Berlin
+1497,Nidderau-Eichen,Eichwaldstraße,2,61130,Nidderau,Hessen,DE,CATEGORY_6,DB S&S,DE,50.255947,8.917491,Europe/Berlin
+1498,Eichenau (Oberbay),Bahnhofstr.,1,82223,Eichenau (Oberbay),Bayern,DE,CATEGORY_5,DB S&S,DE,48.179324,11.328277,Europe/Berlin
+1499,Eichenberg,Bahnhofstr.,53,37249,Neu-Eichenberg,Hessen,DE,CATEGORY_4,DB S&S,DE,51.374823,9.921482,Europe/Berlin
+15,Adelsheim Ost,Am Bahnhof,2,74740,Adelsheim,Baden-Württemberg,DE,CATEGORY_6,DB S&S,DE,49.403123,9.395127,Europe/Berlin
+150,Angersbach,Bahnhofstr.,46,36367,Wartenberg,Hessen,DE,CATEGORY_6,DB S&S,DE,50.63077,9.44726,Europe/Berlin
+1500,Eichenzell,Fuldaer Straße 3 a,,36124,Eichenzell,Hessen,DE,CATEGORY_6,DB S&S,DE,50.494012,9.694717,Europe/Berlin
+1501,Eichhagen,Stader Straße,25,57462,Olpe,Nordrhein-Westfalen,DE,CATEGORY_7,DB S&S,DE,51.059167,7.836871,Europe/Berlin
+1502,Eicholzheim,Wingertstr.,2,74850,Schefflenz,Baden-Württemberg,DE,CATEGORY_6,DB S&S,DE,49.432439,9.290317,Europe/Berlin
+1504,Eichstätt Bahnhof,Bahnhofstr.,6,85072,Eichstätt,Bayern,DE,CATEGORY_4,DB S&S,DE,48.869879,11.16365,Europe/Berlin
+1505,Eichstätt Stadt,Bahnhofplatz,17,85072,Eichstätt,Bayern,DE,CATEGORY_7,DB S&S,DE,48.893296,11.179602,Europe/Berlin
+1506,Eichstedt (Altm),Lange Str.,1,39596,Eichstedt (Altm),Sachsen-Anhalt,DE,CATEGORY_7,DB S&S,DE,52.67485,11.854895,Europe/Berlin
+1507,Eichwalde,Heinrich-Heine-Allee,,15732,Eichwalde,Brandenburg,DE,CATEGORY_5,DB S&S,DE,52.371352,13.615398,Europe/Berlin
+1509,Eickendorf,Bahnhofstr.,11,39221,Eickendorf,Sachsen-Anhalt,DE,CATEGORY_6,DB S&S,DE,51.946752,11.676878,Europe/Berlin
+151,Angersdorf,Bahnhofstraße,3,06179,Angersdorf,Sachsen-Anhalt,DE,CATEGORY_6,DB S&S,DE,51.460407,11.903139,Europe/Berlin
+1511,Eidelstedt,Reichsbahnstr.,101,22525,Hamburg,Hamburg,DE,CATEGORY_3,DB S&S,DE,53.595887,9.907097,Europe/Berlin
+1512,Eilenburg,Bahnhofstr.,21,04838,Eilenburg,Sachsen,DE,CATEGORY_4,DB S&S,DE,51.4518507,12.6370132,Europe/Berlin
+1513,Eilenburg Ost,Ostbahnhofstr.,26,04838,Eilenburg,Sachsen,DE,CATEGORY_5,DB S&S,DE,51.463424,12.667772,Europe/Berlin
+1514,Ehrang Ort,Franziskusstraße,33,54293,Trier-Ehrang,Rheinland-Pfalz,DE,CATEGORY_6,DB S&S,DE,49.8093477,6.68832421,Europe/Berlin
+1515,Eilendorf,Hansmannstr.,23,52080,Aachen,Nordrhein-Westfalen,DE,CATEGORY_6,DB S&S,DE,50.785561,6.154367,Europe/Berlin
+1517,Eilsleben (b Magdeburg),Bahnhofstr.,1,39365,Eilsleben (b Magdeburg),Sachsen-Anhalt,DE,CATEGORY_5,DB S&S,DE,52.150237,11.215214,Europe/Berlin
+1518,Eilvese,Eilveser Hauptstr.,1,31535,Neustadt am Rübenberge,Niedersachsen,DE,CATEGORY_6,DB S&S,DE,52.545215,9.428147,Europe/Berlin
+1519,Eimeldingen,Hauptstr.,23,79591,Eimeldingen,Baden-Württemberg,DE,CATEGORY_6,DB S&S,DE,47.627948,7.5956,Europe/Berlin
+152,Anklam,Bahnhofstraße,1,17389,Anklam,Mecklenburg-Vorpommern,DE,CATEGORY_5,DB S&S,DE,53.856102,13.701827,Europe/Berlin
+1520,Einbeck-Salzderhelden,Alte Bahnhofstr.,8,37574,Einbeck,Niedersachsen,DE,CATEGORY_4,DB S&S,DE,51.798169,9.922775,Europe/Berlin
+1521,Einfeld,Einfelder Schanze,3,24536,Neumünster,Schleswig-Holstein,DE,CATEGORY_6,DB S&S,DE,54.129373,9.997923,Europe/Berlin
+1522,Einöd (Saar),Am Alten Bahnhof,,66424,Homburg-Einöd,Saarland,DE,CATEGORY_7,DB S&S,DE,49.266663,7.321916,Europe/Berlin
+1524,Einsiedel,Am Einsiedler Bahnhof,,09123,Chemnitz,Sachsen,DE,CATEGORY_6,DB Regio-Netze,DE,,,Europe/Berlin
+1525,Einsiedlerhof,Weilerbacher Str.,7,67661,Kaiserslautern,Rheinland-Pfalz,DE,CATEGORY_6,DB S&S,DE,49.431002,7.662227,Europe/Berlin
+1528,Eisenach,Bahnhofstr.,35,99817,Eisenach,Thüringen,DE,CATEGORY_3,DB S&S,DE,50.976922,10.331986,Europe/Berlin
+1529,Eisenach Opelwerk,An der Adam Opelstraße,27,99817,Eisenach,Thüringen,DE,CATEGORY_7,DB S&S,DE,50.979334,10.283491,Europe/Berlin
+153,Annaberg-Buchholz Mitte,Talstraße,,09456,Annaberg-Buchholz,Sachsen,DE,CATEGORY_6,DB Regio-Netze,DE,,,Europe/Berlin
+1530,Eisenach West,Kasselerstr.,18,99817,Eisenach,Thüringen,DE,CATEGORY_6,DB S&S,DE,50.978902,10.30474,Europe/Berlin
+1531,Eisenärzt,Dorfstraße,,83313,Siegsdorf,Bayern,DE,CATEGORY_6,DB Regio-Netze,DE,,,Europe/Berlin
+1532,Matzenbach,Am Bahnhof,2,66909,Matzenbach,Rheinland-Pfalz,DE,CATEGORY_7,DB S&S,DE,49.4943784,7.45607972,Europe/Berlin
+1533,Eisenberg (Pfalz),Bahnhofstr.,19,67304,Eisenberg,Rheinland-Pfalz,DE,CATEGORY_6,DB S&S,DE,49.554483,8.070582,Europe/Berlin
+1536,Eisenhüttenstadt,Eisenbahnstr.,2,15890,Eisenhüttenstadt,Brandenburg,DE,CATEGORY_5,DB S&S,DE,52.14798,14.658435,Europe/Berlin
+1537,Eiserfeld (Sieg),Eiserfelder Straße,286,57080,Siegen,Nordrhein-Westfalen,DE,CATEGORY_6,DB S&S,DE,50.847299,7.987071,Europe/Berlin
+1538,Eisfeld,Am Bahnhof,1,98673,Eisfeld,Thüringen,DE,CATEGORY_6,DB S&S,DE,50.417795,10.904637,Europe/Berlin
+1539,Eislingen (Fils),Bahnhofstr.,15,73054,Eislingen (Fils),Baden-Württemberg,DE,CATEGORY_4,DB S&S,DE,48.696494,9.705147,Europe/Berlin
+154,Annaberg-Buchholz Süd,Schneeberger Straße,,09456,Annaberg-Buchholz,Sachsen,DE,CATEGORY_6,DB Regio-Netze,DE,,,Europe/Berlin
+1540,Eitensheim,Bahnhofstrasse,16,85117,Eitensheim,Bayern,DE,CATEGORY_6,DB S&S,DE,48.815979,11.319259,Europe/Berlin
+1541,Eitorf,Bahnhofstr.,32,53783,Eitorf,Nordrhein-Westfalen,DE,CATEGORY_5,DB S&S,DE,50.773619,7.447326,Europe/Berlin
+1542,Elbgaustraße,Elbgaustr.,105,22523,Hamburg,Hamburg,DE,CATEGORY_4,DB S&S,DE,53.602575,9.893738,Europe/Berlin
+1544,Völksen-Eldagsen,An der Bahn,1,31832,Springe,Niedersachsen,DE,CATEGORY_5,DB S&S,DE,52.211875,9.626528,Europe/Berlin
+1546,Elfershausen-Trimberg,Am Bahnhof,1,97725,Elfershausen-Trimberg,Bayern,DE,CATEGORY_7,DB S&S,DE,50.14048,9.969109,Europe/Berlin
+1547,Elgersburg,Bahnhofstr.,30,98716,Elgersburg,Thüringen,DE,CATEGORY_6,DB S&S,DE,50.706054,10.849905,Europe/Berlin
+1548,Ellefeld,Bahnhofstr.,37,08236,Ellefeld,Sachsen,DE,CATEGORY_7,DB S&S,DE,50.488003,12.384382,Europe/Berlin
+155,Annaberg-Buchholz unt Bahnhof,Bahnhofsplatz,,09456,Annaberg-Buchholz,Sachsen,DE,CATEGORY_6,DB Regio-Netze,DE,,,Europe/Berlin
+1550,Ellhofen,Bahnhofstraße,21,74248,Ellhofen,Baden-Württemberg,DE,CATEGORY_6,DB S&S,DE,49.149952,9.316035,Europe/Berlin
+1551,Ellingen (Bay),Ziegelweg,1,91792,Ellingen (Bay),Bayern,DE,CATEGORY_5,DB S&S,DE,49.066228,10.959693,Europe/Berlin
+1553,Ellrich,Bahnhofstr.,32,99755,Ellrich,Thüringen,DE,CATEGORY_6,DB S&S,DE,51.579804,10.669444,Europe/Berlin
+1554,Ellwangen,Bahnhofstr.,7,73479,Ellwangen,Baden-Württemberg,DE,CATEGORY_5,DB S&S,DE,48.964121,10.129681,Europe/Berlin
+1555,Ellzee,Am Bahnhof,3,89352,Ellzee,Bayern,DE,CATEGORY_7,DB S&S,DE,48.34214,10.338371,Europe/Berlin
+1557,Elmenhorst,Bahnhofsstraße,48,18510,Elmenhorst,Mecklenburg-Vorpommern,DE,CATEGORY_6,DB S&S,DE,54.210202,13.074014,Europe/Berlin
+1558,Elmshorn,Holstenplatz,11,25335,Elmshorn,Schleswig-Holstein,DE,CATEGORY_3,DB S&S,DE,53.754025,9.659408,Europe/Berlin
+1559,Elpersheim,Deutschordenstraße,,97990,Weikersheim,Baden-Württemberg,DE,CATEGORY_6,DB Regio-Netze,DE,,,Europe/Berlin
+156,Annaburg,Bahnhofstr.,2,06925,Annaburg,Sachsen-Anhalt,DE,CATEGORY_6,DB S&S,DE,51.72868,13.032757,Europe/Berlin
+1561,Elsfleth,Bahnhofstr.,5a,26931,Elsfleth,Niedersachsen,DE,CATEGORY_6,DB S&S,DE,53.234103,8.464026,Europe/Berlin
+1562,Elsholz,Bahnhofsweg,1,14547,Elsholz,Brandenburg,DE,CATEGORY_7,DB S&S,DE,52.20405,12.954911,Europe/Berlin
+1564,Elsnigk (Anh),Am Bahnhof,1,06386,Elsnigk,Sachsen-Anhalt,DE,CATEGORY_6,DB S&S,DE,51.7908002,12.0590723,Europe/Berlin
+1566,Elster (Elbe),Zufuhrstr.,2,06918,Elster,Sachsen-Anhalt,DE,CATEGORY_6,DB S&S,DE,51.832331,12.827705,Europe/Berlin
+1567,Elsterberg,Bahnhofstr.,39,07985,Elsterberg,Sachsen,DE,CATEGORY_6,DB S&S,DE,50.613547,12.167487,Europe/Berlin
+1568,Elsterberg Kunstseidenwerk,Plauener Str.,40,07985,Elsterberg,Sachsen,DE,CATEGORY_7,DB S&S,DE,50.605024,12.159798,Europe/Berlin
+1569,Elsterwerda,Am Bahnhof,1,04910,Elsterwerda,Brandenburg,DE,CATEGORY_4,DB S&S,DE,51.459677,13.516428,Europe/Berlin
+1570,Elsterwerda-Biehla,Am Nordbahnhof,,04910,Elsterwerda,Brandenburg,DE,CATEGORY_6,DB S&S,DE,51.472227,13.519271,Europe/Berlin
+1571,Eltersdorf,Bahnstraße,8,91058,Erlangen,Bayern,DE,CATEGORY_6,DB S&S,DE,49.552069,10.9963703,Europe/Berlin
+1572,Eltville,Wilhelmstr.,14,65344,Eltville,Hessen,DE,CATEGORY_5,DB S&S,DE,50.027562,8.12153,Europe/Berlin
+1573,Elxleben,Bahnhofstr.,6,99189,Elxleben,Thüringen,DE,CATEGORY_7,DB S&S,DE,51.043183,10.946788,Europe/Berlin
+1574,Elz (Kr Limburg/Lahn),Offheimer Str.,14,65604,Elz,Hessen,DE,CATEGORY_6,DB S&S,DE,50.414294,8.038458,Europe/Berlin
+1575,Elz (Kr Limburg/Lahn) Süd,Am Südbahnhof,1,65604,Elz,Hessen,DE,CATEGORY_7,DB S&S,DE,50.408709,8.032223,Europe/Berlin
+1576,Elzach,Bahnhofstr.,1,79215,Elzach,Baden-Württemberg,DE,CATEGORY_6,DB S&S,DE,48.171194,8.070891,Europe/Berlin
+1577,Elze (Han),Bahnhofstr.,70,31008,Elze ,Niedersachsen,DE,CATEGORY_4,DB S&S,DE,52.120147,9.746894,Europe/Berlin
+158,Annweiler am Trifels,Bahnhofstr.,17,76855,Annweiler am Trifels,Rheinland-Pfalz,DE,CATEGORY_5,DB S&S,DE,49.205386,7.966149,Europe/Berlin
+1580,Emden Hbf,Bahnhofsplatz,11,26721,Emden,Niedersachsen,DE,CATEGORY_3,DB S&S,DE,53.369036,7.195176,Europe/Berlin
+1583,Emmelshausen,Bahnhofstr.,1,56281,Emmelshausen,Rheinland-Pfalz,DE,CATEGORY_7,DB S&S,DE,50.157673,7.560494,Europe/Berlin
+1584,Emmendingen,Bahnhofstr.,7,79312,Emmendingen,Baden-Württemberg,DE,CATEGORY_4,DB S&S,DE,48.119454,7.847511,Europe/Berlin
+1585,Emmerich,Bahnhofstr.,21,46446,Emmerich,Nordrhein-Westfalen,DE,CATEGORY_5,DB S&S,DE,51.834175,6.25648,Europe/Berlin
